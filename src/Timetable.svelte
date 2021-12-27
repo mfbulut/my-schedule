@@ -89,7 +89,7 @@
       return 3;
     } else if (690 <= time && time <= 730) {
       return 4;
-    } else if (780 <= time && time <= 820) {
+    } else if (775 <= time && time <= 815) {
       return 5;
     } else if (830 <= time && time <= 870) {
       return 6;
